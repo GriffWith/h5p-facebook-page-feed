@@ -63,7 +63,7 @@
     "name": "fbHeight",
     "type": "text",
     "default": "100%",
-    "description": "Set Height of the Faceook Page Feed"
+    "description": "Set Height of the Facebook Page Feed"
   },
   {
     "label": "Width",
